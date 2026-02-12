@@ -1,0 +1,11 @@
+﻿  config.cpp
+  discord_client.cpp
+  logger.cpp
+  main.cpp
+  media_monitor.cpp
+  tray_icon.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1065 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  RPC-Discord-Music.vcxproj -> C:\Users\Admin\Desktop\RPC-Discord-Music\x64\Release\RPC-Discord-Music.exe

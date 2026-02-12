@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RPC-Discord-Music/RPC-Discord-Music.vcxproj" Id="ada9c999-380d-4c6a-9af4-4a3443d618fc" />
+</Solution>
